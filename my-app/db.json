@@ -1,13 +1,46 @@
 {
   "topics": [
-    {"id": 1, "title":"블랙핑크", "body":"블랙핑크 good!"},
-    {"id": 2, "title":"아이브", "body":"아이브 good!"},
-    {"id": 3, "title":"르세라핌", "body":"르세라핌 good!"},
-    {"id": 4, "title":"뉴진스", "body":"뉴진스 good!"},
-    {"id": 5, "title":"트와이스", "body":"트와이스 good!"},
-    {"id": 6, "title":"레드벨벳", "body":"레드벨벳 good!"},
-    {"id": 7, "title":"에스파", "body":"에스파 good!"}
-  ],  
+    {
+      "id": 1,
+      "title": "블랙핑크",
+      "body": "블랙핑크 good!"
+    },
+    {
+      "id": 2,
+      "title": "아이브",
+      "body": "아이브 good!"
+    },
+    {
+      "id": 3,
+      "title": "르세라핌",
+      "body": "르세라핌 good!"
+    },
+    {
+      "id": 4,
+      "title": "뉴진스",
+      "body": "뉴진스 good!"
+    },
+    {
+      "id": 5,
+      "title": "트와이스",
+      "body": "트와이스 good!"
+    },
+    {
+      "id": 6,
+      "title": "레드벨벳",
+      "body": "레드벨벳 good!"
+    },
+    {
+      "id": 7,
+      "title": "에스파",
+      "body": "에스파 good!"
+    },
+    {
+      "title": "아일릿",
+      "body": "아일릿 good",
+      "id": 8
+    }
+  ],
   "posts": [
     {
       "id": 1,
