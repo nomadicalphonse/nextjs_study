@@ -1,0 +1,62 @@
+/* globals.css */
+body {
+    font-family: Arial, sans-serif; /* 폰트 설정 */
+    margin: 20px; /* 바디 주변 여백 설정 */
+  }
+  
+  h1 {
+    color: #333; /* 제목 색상 */
+    text-align: center; /* 가운데 정렬 */
+    margin-bottom: 20px; /* 제목 아래 여백 */
+  }
+  
+  ol {
+    padding-left: 20px; /* 목록 왼쪽 패딩 */
+  }
+  
+  li {
+    margin-bottom: 10px; /* 항목 간 여백 */
+  }
+  
+  ul {
+    list-style-type: none; /* 기본 목록 스타일 제거 */
+    padding: 0; /* 기본 패딩 제거 */
+    text-align: center; /* 가운데 정렬 */
+    margin-top: 30px; /* 위쪽 여백 추가 */
+  }
+  
+  .action-link {
+    display: inline-block; /* 블록 요소로 표시 */
+    background-color: #0070f3; /* 배경 색상 */
+    color: #ffffff; /* 글자 색상 */
+    text-align: center; /* 텍스트 가운데 정렬 */
+    padding: 5px 10px; /* 패딩 줄임 */
+    margin-right: 10px; /* 우측 여백 추가 */
+    border-radius: 5px; /* 모서리 둥글게 */
+    transition: background-color 0.3s ease; /* 배경색 변경시 효과 */
+    text-decoration: none; /* 밑줄 제거 */
+    font-weight: bold; /* 볼드체 */
+  }
+  
+  .action-link:hover {
+    background-color: #0056b3; /* 호버 시 배경 색상 변경 */
+    color: #ffffff; /* 호버 시 글자 색상 유지 */
+    text-decoration: none; /* 호버 시 밑줄 제거 */
+  }
+  
+  .action-link:last-child {
+    margin-right: 0; /* 마지막 요소의 우측 여백 제거 */
+  }
+
+  /* 텍스트 링크에 적용되는 기본 스타일 */
+a {
+    color: #0070f3; /* 링크 색상 */
+    text-decoration: none; /* 밑줄 제거 */
+  }
+  
+  a:hover {
+    color: #0056b3; /* 호버 시 색상 변경 */
+    text-decoration: underline; /* 호버 시 밑줄 추가 */
+  }
+  
+  
